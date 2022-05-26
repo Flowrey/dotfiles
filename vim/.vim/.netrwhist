@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/flowrey/Git/dotfiles/bash'
+let g:netrw_dirhist_9='/home/flowrey/Git/dotfiles'
+let g:netrw_dirhist_8='/home/flowrey/Git/youtube-bz-api/src/ybz_api'
+let g:netrw_dirhist_7='/home/flowrey/Git/youtube-bz-api/src/ybz_api/static/ybz_api'
+let g:netrw_dirhist_6='/home/flowrey/Git/youtube-bz-api/src/ybz_api/download'
+let g:netrw_dirhist_5='/home/flowrey/Git/youtube-bz-api/src/ybz_api'
+let g:netrw_dirhist_4='/home/flowrey/Git/youtube-bz-api/src'
+let g:netrw_dirhist_3='/home/flowrey/Git/youtube-bz-api/src/ybz_api'
+let g:netrw_dirhist_2='/home/flowrey/Git/youtube-bz-api/src'
+let g:netrw_dirhist_1='/home/flowrey/Git/youtube-bz/.github/workflows'
